@@ -1,0 +1,38 @@
+[
+    {
+        "label": "binascii",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binascii",
+        "description": "binascii",
+        "detail": "binascii",
+        "documentation": {
+            "value": "\n```python\nimport binascii\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {
+            "value": "\n```python\nimport time\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "binary",
+        "kind": 5,
+        "importPath": "text_to_binary",
+        "description": "text_to_binary",
+        "peekOfCode": "binary = input(\"==> \")\ntime.sleep(0.5)\nprint(\"Your binary code: \")\nprint(' '.join(format(ord(x), 'b') for x in binary))\ntime.sleep(0.5)\ntime.sleep(1)\nprint(\"Thanks for using my code.\")\ntime.sleep(1)\nprint(\"Bye\")",
+        "detail": "text_to_binary",
+        "documentation": {
+            "value": "\n```python\nfrom text_to_binary import binary\n```\n\n```python\n\n\n```\n\n```python\nbinary = input(\"==> \")\ntime.sleep(0.5)\nprint(\"Your binary code: \")\nprint(' '.join(format(ord(x), 'b') for x in binary))\ntime.sleep(0.5)\ntime.sleep(1)\nprint(\"Thanks for using my code.\")\ntime.sleep(1)\nprint(\"Bye\")\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
