@@ -1,2 +1,2 @@
-# Python
- Tempat untuk menyimpan seluruh hasil belajar Python
+# Text to Binary
+ Mau ngerubah text jadi kode binary? use this.
